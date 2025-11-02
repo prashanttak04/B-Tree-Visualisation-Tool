@@ -1,7 +1,7 @@
 // libraries
 import React from 'react';
 import ReactDOM from 'react-dom/client'; //Lets us Connect React to the Browser's HTML
-import App from './app.jsx'; //imports my app main component
+import App from './App.jsx'; //imports my app main component
 import './main.css';
 
 import { ThemeProvider } from '@mui/material/styles';
