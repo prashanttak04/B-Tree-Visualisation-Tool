@@ -9,7 +9,7 @@ import IconButton from "@mui/material/IconButton";
 
 // components
 import ImportExportBar from "./ImportExportBar";
-import UiComponent from "../../UtilityComponents/UIComponent";
+import UiComponent from "../../UtilityComponents/UiComponent";
 import Warning from "../../UtilityComponents/Warning";
 import Tooltipped from "../../UtilityComponents/Tooltipped";
 
